@@ -1,5 +1,12 @@
 Data Science from Scratch
 =========================
+https://mybinder.org/v2/gh/cdaman123/data-science-from-scratch/master
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdaman123/data-science-from-scratch/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cdaman123/data-science-from-scratch/master
 
 Here's all the code and examples from the second edition of my book _Data Science from Scratch_. They require at least Python 3.6.
 
